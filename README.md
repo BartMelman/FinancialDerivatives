@@ -28,3 +28,25 @@ $$
     d_2 & = d_1 - \sigma \sqrt{t}
 \end{aligned}
 $$
+
+### Volatility Smile
+
+[Description](https://www.investopedia.com/terms/v/volatilitysmile.asp)
+
+The volatility smile is a graph of the strike price versus the implied volatility. The options tend to have a higher implied volatility for options which are further in- or out-of-the-money. The lowest implied volatility is for at-the-money options.
+
+Not all options have a volatility smile. More near-term equity and currency options.
+
+### Volatility Skew
+
+[Description](https://www.investopedia.com/terms/v/volatility-skew.asp)
+
+The volatility skew is the assymetric relationship between the strike price and implied volatility. It is a result of an assymmetric supply and demand. Fund managers are willing to overpay for downward striked options on stocks. E.g. downside protection is more important than upside speculation. Consequently, the shape is referred to as a 'smirk'.
+
+### Put-Call Parity
+
+$$
+\begin{aligned}
+    C(t) - P(t) = S(t) - e^{-rT}K
+\end{aligned}
+$$
